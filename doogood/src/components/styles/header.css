@@ -1,0 +1,15 @@
+.heroimage {
+    position:fixed;
+    left: 500px;
+    top: 100px;
+}
+
+.headercontainer {
+    background: #80b8f5 url();
+    background-repeat: no-repeat;
+    background-position-y: 60px;
+    background-size: contain;
+    height: 500px;
+    display: flex;
+    align-items: center;
+}

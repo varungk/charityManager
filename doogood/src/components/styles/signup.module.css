@@ -1,0 +1,50 @@
+.signupbts{
+    color:#000000;
+    font-size: 24px;
+    text-decoration: none;
+    position: relative;
+    margin-left: 20px;
+    top: 200px;
+    left: 250px;
+
+    background: #92ff16;
+    border-color: #000000;
+    border-radius: 8px;
+    padding: 12px 48px;
+    display: inline-block;
+    transition: 300ms;
+}
+
+h2{
+    font-family: 'Poppins Medium';
+    font-style: normal;
+    font-weight: 100;
+    font-size: 29px;
+    line-height: 60px;
+    position: fixed;
+    right: 400px;
+    left:200px;
+    top:200px;
+    text-align: right;
+    margin-right: 850px;
+    color: #000000;
+}
+
+button:hover {
+    transform: translateY(-8px);
+}
+
+form{
+    font-family: 'Poppins Medium';
+    font-style: normal;
+    font-weight: 200;
+    font-size: 22px;
+    line-height: 50px;
+    position: fixed;
+    top: 300px;
+    left: 425px;
+    line-break:strict;
+    box-shadow: #000000;
+
+    color: #000000;
+}

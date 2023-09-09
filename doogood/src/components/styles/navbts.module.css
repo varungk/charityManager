@@ -1,0 +1,14 @@
+li {
+    list-style: none;
+    margin-right: 100px;
+    
+}
+
+.navbt{
+    list-style: none;
+    margin-right: 25px;
+    color: black;
+    font-size: 30px;
+    font-family: 'Poppins';
+    text-decoration: none;
+}
